@@ -8,6 +8,7 @@ auto Add(double lhs, double rhs) -> double;
 auto Subtract(double lhs, double rhs) -> double;
 auto Multiply(double lhs, double rhs) -> double;
 auto Divide(double lhs, double rhs) -> double;
+
 // 비교연산
 // IsEqual
 auto IsEqual(double lhs, double rhs) -> bool;
