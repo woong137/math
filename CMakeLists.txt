@@ -7,11 +7,11 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 set(CMAKE_VERBOSE_MAKEFILE ON)
 
 project(
-  CPP_PROJECT_TEMPLATE
+  math
   LANGUAGES CXX
   VERSION 1.0.0
-  DESCRIPTION "C++ Project Template"
-  HOMEPAGE_URL "studio.holyground.com"
+  DESCRIPTION "Math library for C++"
+  HOMEPAGE_URL "https://github.com/woong137/math"
 )
 message(STATUS)
 message(STATUS "Started all process in ${PROJECT_NAME} CMakeLists.txt.")
